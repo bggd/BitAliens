@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"birthggd"
+	],
+	"copyright": "Copyright © 2020, birthggd",
+	"description": "A game.",
+	"license": "MIT",
+	"name": "bitaliens",
+  "targetType": "executable"
+}
